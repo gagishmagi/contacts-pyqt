@@ -3,7 +3,6 @@ import sys
 from PyQt5.QtGui import QFont
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLayout
 
-
 class MyApp(QWidget):
 
     def __init__(self):
